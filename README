@@ -1,0 +1,3 @@
+ESP32 web server reading temperature using DHT22 and reading gas (MQ5 sensor) and carbon monoxide (MQ7 sensor). In case of a high level of ether the buzzer buzzez every 30 seconds. 
+
+Sensor readings are exposed trough a web server in a simple table that is easy to scrape using outside tools
